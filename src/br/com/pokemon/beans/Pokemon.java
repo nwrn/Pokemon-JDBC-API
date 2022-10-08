@@ -1,6 +1,6 @@
 package br.com.pokemon.beans;
 
-public class pokemon {
+public class Pokemon {
 
     private String name;
     private String type;
